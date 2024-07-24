@@ -1,4 +1,8 @@
-ADAS is my senior interim project and here is the demo videos.
+ADAS is my senior interim project.
+Main goal of the project is asist drivers with auido warning when pedestrians are in the field of view of car camera.
+Pedestrian recognition model is trained with YOLO image recognition model. We simply use YOLO model weights to train our model which is called transfer learning. Software runs on Nvidia Jetson Nano board with the help of Raspbery Pi V2 Camera. Power input attached to Vehicle Electric System with 12V-5V converter.
+
+Here is the demo videos.
 
 ## Simulation
 
